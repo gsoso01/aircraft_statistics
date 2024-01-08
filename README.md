@@ -4,7 +4,7 @@ This is a comprehensive project that involves analyzing Aircraft data extracted 
 
 ## Members
 | Name | UP Number |
-|--|--|--|
+|--|--|--|--|
 | Beatriz Gomes | up202300585 | 
 | Danillo Rodrigues | up202300683 |
 | Guilherme Soares |up202302425 |
